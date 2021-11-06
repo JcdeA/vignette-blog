@@ -11,7 +11,7 @@ media_folder: static/img
 collections:
   - name: 'updates'
     label: 'Plaform Updates'
-    folder: 'content/updates'
+    folder: 'src/content/updates'
     create: true
     slug: 'updates'
     media_folder: ''
